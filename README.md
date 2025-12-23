@@ -1,2 +1,15 @@
 # R5 Valkyrie Launcher
-This repository hosts the published releases that the R5 Valkyrie Launcher uses for in‑app auto‑updates. The launcher is closed‑source; this repo contains only the update artifacts and metadata required by the updater.
+
+⚠️ **DEPRECATED** ⚠️
+
+This repository is no longer maintained. All releases have been moved to the main repository.
+
+**New Release Location:** https://github.com/r5valkyrie/launcher/releases
+
+The launcher now uses the main repository for in-app auto-updates. This repository is kept for time being until we are sure everyone has updated
+
+Please visit the main repository for:
+- Latest releases
+- Installation instructions
+- Package repositories
+- Source code and documentation
